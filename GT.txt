@@ -82,6 +82,5 @@ CETV-4,http://baidu.live.cqccn.com/__cl/cg:live/__c/cetv-4SD/__op/default/__f//i
 龙华戏剧,http://123.51.230.108:18513/.m3u8
 东森,http://123.51.230.108:18515/.m3u8
 好莱坞电影,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8?blog.ntnas.top
-T B,http://120.84.96.62:808/hls/86/index.m3u8
-T B,http://120.84.96.55:808/hls/86/index.m3u8
+
 
