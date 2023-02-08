@@ -73,5 +73,18 @@ CETV-4,http://baidu.live.cqccn.com/__cl/cg:live/__c/cetv-4SD/__op/default/__f//i
 明珠台,http://baidu.douyincdn.freetvtv.com/peal/m2.m3u8
 明珠台,http://r.jdshipin.com/ZQ4kN
 明珠台,http://120.84.96.62:808/hls/26/index.m3u8?blog.ntnas.top
-
+耀才财经新闻,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
+耀才财经新闻,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+财经体育资讯台,http://120.84.96.62:808/hls/86/index.m3u8?blog.ntnas.top
+财经体育资讯台,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+TVB无线财经,http://120.84.96.62:808/hls/86/index.m3u8
+TVB无线财经,http://120.84.96.55:808/hls/86/index.m3u8
+有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8 
+澳亚卫视,http://107.151.203.111:2209/135/hk.php?id=aoya
+纬来体育,http://123.51.230.108:18509/.m3u8
+龙华戏剧,http://123.51.230.108:18513/.m3u8
+东森财经,http://123.51.230.108:18515/.m3u8
+有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+好莱坞电影,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8?blog.ntnas.top
 
