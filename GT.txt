@@ -17,7 +17,6 @@ CCTV15,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f//i
 CCTV16,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f//index.m3u8?blog.ntnas.top
 CCTV17,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f//index.m3u8?blog.ntnas.top
 CCTV5+,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8?blog.ntnas.top
-CGTN,http://baidu.live.cqccn.com/__cl/cg:live/__c/cgtnSD/__op/default/__f//index.m3u8?blog.ntnas.top
 CETV-1,http://baidu.live.cqccn.com/__cl/cg:live/__c/cetv-1SD/__op/default/__f//index.m3u8?blog.ntnas.top
 CETV-4,http://baidu.live.cqccn.com/__cl/cg:live/__c/cetv-4SD/__op/default/__f//index.m3u8?blog.ntnas.top
 卫视,#genre#
