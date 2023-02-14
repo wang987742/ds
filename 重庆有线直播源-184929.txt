@@ -83,7 +83,7 @@ CHC动作电影,http://baidu.live.cqccn.com/__cl/cg:live/__c/chcdzdyHD/__op/defa
 央视文化精品,http://baidu.live.cqccn.com/__cl/cg:live/__c/yswhHD/__op/default/__f//index.m3u8?blog.ntnas.top
 高尔夫网球,http://baidu.live.cqccn.com/__cl/cg:live/__c/golfHD/__op/default/__f//index.m3u8?blog.ntnas.top
 早期教育,http://baidu.live.cqccn.com/__cl/cg:live/__c/zaojiaoHD/__op/default/__f//index.m3u8?blog.ntnas.top
-东方财*,http://baidu.live.cqccn.com/__cl/cg:live/__c/dfcj/__op/default/__f//index.m3u8?blog.ntnas.top
+东方财富,http://baidu.live.cqccn.com/__cl/cg:live/__c/dfcj/__op/default/__f//index.m3u8?blog.ntnas.top
 证券服务,http://baidu.live.cqccn.com/__cl/cg:live/__c/jiazheng/__op/default/__f//index.m3u8?blog.ntnas.top
 书画,http://baidu.live.cqccn.com/__cl/cg:live/__c/shuhua/__op/default/__f//index.m3u8?blog.ntnas.top
 新动漫,http://baidu.live.cqccn.com/__cl/cg:live/__c/dongman/__op/default/__f//index.m3u8?blog.ntnas.top
