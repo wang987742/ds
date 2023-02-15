@@ -19,7 +19,7 @@ mezzo live,http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3
 博斯网球,http://www.336699.live:1935/blockfour/litv-longturn09.stream/playlist.m3u8
 博斯无限,http://www.336699.live:1935/blockfour/litv-longturn10.stream/playlist.m3u8
 龙华日韩,http://www.336699.live:1935/blockfour/litv-longturn11.stream/playlist.m3u8
-美国之音,http://www.336699.live:1935/blockfour/litv-ftv03.stream/playlist.m3u8
+美国 之音,http://www.336699.live:1935/blockfour/litv-ftv03.stream/playlist.m3u8
 半岛电视,http://www.336699.live:1935/blockfour/litv-ftv10.stream/playlist.m3u8
 i-Fun爱放,http://www.336699.live:1935/blockfour/litv-ftv15.stream/playlist.m3u8
 好消息,http://www.336699.live:1935/blockfour/litv-ftv16.stream/playlist.m3u8
