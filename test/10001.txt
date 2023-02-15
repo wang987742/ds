@@ -138,7 +138,7 @@ TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 智林体育,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 儒释道经,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
 星光影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+B岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 音乐MusicTop,http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
 日本·NHK,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
