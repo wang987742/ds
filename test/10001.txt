@@ -193,3 +193,41 @@ FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
 法国·时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 狗狗宠物,http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 法国24,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
+ABC新闻,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+CTN,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
+OAN,http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+FOX News Now,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+印度·NDTV,https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+VB,http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
+ZEEALWAN50,http://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
+美·NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+美·NASA Public Channel,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+美·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+美·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+斯·TVNZ,http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
+乌·M2音乐,http://live.m2.tv/hls3/stream.m3u8
+西·加利西亚欧洲体育电视台,http://europa-crtvg.flumotion.com/playlist.m3u8
+希·FoxTV,http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+NewsmaxTV,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+PBSAmerica,https://pbs-samsunguk.amagi.tv/playlist.m3u8
+moviesphere,https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+AlarabyTV,https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+ComedyChannel,https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+EdgeSport,https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+CanadaOne,http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+CA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+InsightTV,https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+Inwonder,https://inwonder-samsung-canada.amagi.tv/playlist.m3u8
+Astrakhan24(Opt-2),http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+UgraTV,http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
+Самара,http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+UniverTV,http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8
+Comedy,http://51.210.199.27/hls/stream.m3u8
+Documentary,http://51.210.199.23/hls/stream.m3u8
+Family,http://51.210.199.19/hls/stream.m3u8
+Iranian,http://51.210.199.22/hls/stream.m3u8
+Music,http://51.210.199.24/hls/stream.m3u8
+Nostalgia,http://51.210.199.20/hls/stream.m3u8
+Technology,http://51.210.199.25/hls/stream.m3u8
+
