@@ -201,10 +201,6 @@ FOX News Now,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 印度·NDTV,https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 VB,http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 ZEEALWAN50,http://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
-美·NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-美·NASA Public Channel,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
-美·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-美·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 斯·TVNZ,http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
 乌·M2音乐,http://live.m2.tv/hls3/stream.m3u8
 西·加利西亚欧洲体育电视台,http://europa-crtvg.flumotion.com/playlist.m3u8
