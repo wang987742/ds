@@ -154,13 +154,6 @@ TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 音乐MusicTop,http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
 
-
-
-港澳台,#genre#
-
-
-
-
 FashionTV2,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 FashionTV3,http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
 
