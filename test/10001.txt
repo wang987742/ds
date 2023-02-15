@@ -64,7 +64,7 @@ CETV1,http://111.59.189.40:8445/tsfile/live/1013_1.m3u8
 广西影视,http://111.59.189.40:8445/tsfile/live/1024_1.m3u8
 广西新闻,http://111.59.189.40:8445/tsfile/live/1025_1.m3u8
 广西都市,http://111.59.189.40:8445/tsfile/live/1027_1.m3u8
-BRTV,http://111.59.189.40:8445/tsfile/live/1015_1.m3u8
+
 
 
 
