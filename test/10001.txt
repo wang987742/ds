@@ -230,4 +230,4 @@ Iranian,http://51.210.199.22/hls/stream.m3u8
 Music,http://51.210.199.24/hls/stream.m3u8
 Nostalgia,http://51.210.199.20/hls/stream.m3u8
 Technology,http://51.210.199.25/hls/stream.m3u8
-
+SexyK-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3U8
