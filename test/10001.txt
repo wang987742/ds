@@ -74,6 +74,14 @@ CETV1,http://111.59.189.40:8445/tsfile/live/1013_1.m3u8
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
+凤凰中文,http://anren.live/HK/AQtR.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
@@ -82,9 +90,13 @@ CETV1,http://111.59.189.40:8445/tsfile/live/1013_1.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8?zgangd
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 香港卫视文旅台,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
+香港有线新闻,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/chunklist_w784366279.m3u8
+翡翠台,http://23.237.10.66:16106
+翡翠华丽,http://23.237.10.66:16410
 香港F陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 香港F陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+
 澳视澳门,http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 澳视葡文,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
 澳门macau,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
@@ -129,11 +141,11 @@ TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w614428743.m3u8
-海豚综合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 中台湾生活网,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
 中台湾生活网,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
+美食李子柒,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 美丽人生购物台,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 智林体育,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 儒释道经,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
@@ -141,6 +153,84 @@ TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 音乐MusicTop,http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+
+
+
+港澳台,#genre#
+
+
+
+
+FashionTV2,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+FashionTV3,http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
+
+
+靖天卡通,http://www.336699.live:1935/blockfour/4gtv-4gtv044.stream/playlist.m3u8
+靖洋戏剧,http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
+采昌影剧,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
+GinX,http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
+靖天欢乐,http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
+靖天映画,http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
+靖天戏剧,http://www.336699.live:1935/blockfour/4gtv-4gtv058.stream/playlist.m3u8
+靖天育乐,http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8
+靖天国际,http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
+中视菁采,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u8
+ELTA娱乐,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
+TRACE,http://www.336699.live:1935/blockfour/4gtv-4gtv077.stream/playlist.m3u8
+阿里郎,http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
+HITS,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
+mezzo live,http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
+智林体育,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
+博斯高球I,http://www.336699.live:1935/blockfour/litv-longturn05.stream/playlist.m3u8
+博斯运动I,http://www.336699.live:1935/blockfour/litv-longturn07.stream/playlist.m3u8
+博斯网球,http://www.336699.live:1935/blockfour/litv-longturn09.stream/playlist.m3u8
+博斯无限,http://www.336699.live:1935/blockfour/litv-longturn10.stream/playlist.m3u8
+龙华日韩,http://www.336699.live:1935/blockfour/litv-longturn11.stream/playlist.m3u8
+mei国之音,http://www.336699.live:1935/blockfour/litv-ftv03.stream/playlist.m3u8
+半岛电视,http://www.336699.live:1935/blockfour/litv-ftv10.stream/playlist.m3u8
+i-Fun爱放,http://www.336699.live:1935/blockfour/litv-ftv15.stream/playlist.m3u8
+好消息,http://www.336699.live:1935/blockfour/litv-ftv16.stream/playlist.m3u8
+人间卫视,http://www.336699.live:1935/blocksix/4gtv-live008.stream/chunklist.m3u8
+ROLLOR,http://www.336699.live:1935/blocksix/4gtv-live012.stream/chunklist.m3u8
+老电影,http://www.336699.live:1935/blocksix/4gtv-live021.stream/chunklist.m3u8
+经典卡通,http://www.336699.live:1935/blocksix/4gtv-live022.stream/chunklist.m3u8
+精选动漫,http://www.336699.live:1935/blocksix/4gtv-live024.stream/chunklist.m3u8
+影迷纪实,http://www.336699.live:1935/blocksix/4gtv-live023.stream/chunklist.m3u8
+Lifetime,http://www.336699.live:1935/blocksix/4gtv-live029.stream/chunklist.m3u8
+LIVE互动英语,http://www.336699.live:1935/blocksix/4gtv-live030.stream/chunklist.m3u8
+东森购物,http://www.336699.live:1935/blocksix/4gtv-live046.stream/chunklist.m3u8
+东森购物2,http://www.336699.live:1935/blocksix/4gtv-live047.stream/chunklist.m3u8
+全球财经,http://www.336699.live:1935/blocksix/4gtv-live060.stream/chunklist.m3u8
+全民最大党,http://www.336699.live:1935/blocksix/4gtv-live076.stream/chunklist.m3u8
+Pet Club,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
+Gobal Trekker,http://www.336699.live:1935/blocksix/4gtv-live112.stream/chunklist.m3u8
+LUXE,http://www.336699.live:1935/blocksix/4gtv-live121.stream/chunklist.m3u8
+ELTA生活旅游,http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8
+ELTA生活旅游,https://epg.pw/stream/37d6f76bc0d5547f52c9c7e1d03721182a0c1588cf3747fec2f7dc7c265bc49b.m3u8
+Style,http://www.336699.live:1935/blocksix/4gtv-live122.stream/chunklist.m3u8
+中天美食旅游,http://www.336699.live:1935/blocksix/4gtv-live123.stream/chunklist.m3u8
+CNN,http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8
+MCE,http://www.336699.live:1935/blocksix/4gtv-live157.stream/chunklist.m3u8
+爱尔达体育1,http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8
+爱尔达体育2,http://www.best336699.com:1935/besttv/IR22.stream/playlist.m3u8
+爱尔达体育3,http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8
+龙华电影,https://epg.pw/stream/e4f21acda4343622520728335bad935a0f525b0afb005d52e8cb4f96c1c0f423.m3u8
+龙华电影,https://epg.pw/stream/48e65c7ee2e32cd94bd6ef41b978802804253539e7a5d4bc156ed6bd27543d87.m3u8
+镜新闻,http://tv.redrainl.site:9500/live.m3u8?c=28
+东森戏剧,http://123.51.230.108:18538/.m3u8
+民视新闻,http://123.51.230.108:18663/.m3u8
+东森财经,http://123.51.230.108:18515/.m3u8
+大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大爱,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+世新综合,http://61.58.60.230:9319/live/49.m3u8
+嘉义SHOW,http://61.58.60.230:9319/live/100.m3u8
+嘉有总铺师,http://61.58.60.230:9319/live/101.m3u8
+国会频道1,http://61.58.60.230:9319/live/123.m3u8
+国会频道2,http://61.58.60.230:9319/live/124.m3u8
 日本·NHK,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 日本·QVC,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 日本·UNWeTV,https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
@@ -161,7 +251,7 @@ TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 韩国·阿里郎,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 韩国·阿里郎,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 韩国·阿里郎WORLD,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
-韩国·Arirang,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
+韩国·阿里郎 收音,http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b1728000_sleng.m3u8
 韩国·职业,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 韩国·BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
 韩国·BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
@@ -169,10 +259,10 @@ TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 韩国·KCTV_HV2,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 韩国·MBC综合频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 韩国·NBS Korea Agricultural Broadc,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-越南·VBSTV,http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
+越南·NBSTV,http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
 越南·HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
-泰国·THAIPBS,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
-泰国·公共三台,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+泰国·THAI PBS,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
+泰国·THAI PBS,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 印尼·TVRISports,http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 印尼·TVRIKanal3,http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
 印尼·METROTV,http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
@@ -180,23 +270,21 @@ TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 伊拉克·SharqiyaNews,http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 
 
-美食李子柒,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
+
 FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
 俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 俄罗斯·IGITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-俄罗斯·RBC(Opt-1),http://92.50.128.180/utv/1358/index.m3u8
+俄罗斯·RBC,http://92.50.128.180/utv/1358/index.m3u8
 俄罗斯·音乐TROSoyuz,http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-法国·24台,http://tv.balkanweb.com/news24/livestream/playlist.m3u8
-法国·24台,http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
+法国·news24台,http://tv.balkanweb.com/news24/livestream/playlist.m3u8
+法国·news24台,http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
 法国·时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 法国·时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 狗狗宠物,http://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-法国24,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
 ABC新闻,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 CTN,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
 OAN,http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
-ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 FOX News Now,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 印度·NDTV,https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 VB,http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
@@ -219,7 +307,7 @@ CanadaOne,http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 CA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 InsightTV,https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 Inwonder,https://inwonder-samsung-canada.amagi.tv/playlist.m3u8
-Astrakhan24(Opt-2),http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+Astrakhan24,http://streaming.astrakhan.ru/astrakhan24/index.m3u8
 UgraTV,http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
 Самара,http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 UniverTV,http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8
@@ -227,7 +315,7 @@ Comedy,http://51.210.199.27/hls/stream.m3u8
 Documentary,http://51.210.199.23/hls/stream.m3u8
 Family,http://51.210.199.19/hls/stream.m3u8
 Iranian,http://51.210.199.22/hls/stream.m3u8
-Music,http://51.210.199.24/hls/stream.m3u8
+印度Music,http://51.210.199.24/hls/stream.m3u8
 Nostalgia,http://51.210.199.20/hls/stream.m3u8
 Technology,http://51.210.199.25/hls/stream.m3u8
-SexyK-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/.m3U8
+
