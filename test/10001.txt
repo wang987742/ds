@@ -2,7 +2,7 @@
 Catchplay,http://www.336699.live:1935/blocksix/4gtv-live155.stream/chunklist.m3u8
 CHY电影,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
 Cinema worid,http://www.336699.live:1935/blocksix/4gtv-live069.stream/chunklist.m3u8
-CI罪案现场,http://www.336699.live:1935/blocksix/4gtv-live027.stream/chunklist.m3u8
+ci罪案现场,http://www.336699.live:1935/blocksix/4gtv-live027.stream/chunklist.m3u8
 cnex,http://www.336699.live:1935/blockfour/4gtv-4gtv013.stream/playlist.m3u8
 CNN,http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8
 CNN,http://www.yshmzmc.top/gtjm.php?id=live1063
@@ -134,7 +134,7 @@ TVBS欢乐,https://epg.pw/stream/a0e38cabd293735287ad24ea12d5e2e3d2f0ecd3a998489
 博斯运动1,http://www.yshmzmc.top/gtjm.php?id=live1225
 博斯运动I,http://www.336699.live:1935/blockfour/litv-longturn07.stream/playlist.m3u8
 博斯网球,http://www.336699.live:1935/blockfour/litv-longturn09.stream/playlist.m3u8
-壹新闻,http://www.yshmzmc.top/gtjm.php?id=live1242
+一新闻,http://www.yshmzmc.top/gtjm.php?id=live1242
 智林体育,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
 华视新闻资讯,http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8
 华视新闻资讯,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
