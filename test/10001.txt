@@ -82,5 +82,5 @@ CETV1,http://111.59.189.40:8445/tsfile/live/1013_1.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8?zgangd
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 香港卫视文旅台,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
-香港 佛 陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
-香港 佛 陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+香港F陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+香港F陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
